@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1449427374"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq &quot;-FiD:\Users\W10\Documents\Ingenieria UNLP\PROGRAMACION I\tp\backup\lib\x86_64-win64&quot; &quot;-FuD:\Users\W10\Documents\Ingenieria UNLP\PROGRAMACION I\tp\backup\&quot; &quot;-FUD:\Users\W10\Documents\Ingenieria UNLP\PROGRAMACION I\tp\backup\lib\x86_64-win64\&quot; &quot;-FED:\Users\W10\Documents\Ingenieria UNLP\PROGRAMACION I\tp\backup\&quot; &quot;-oD:\Users\W10\Documents\Ingenieria UNLP\PROGRAMACION I\tp\backup\trabajo.exe&quot; trabajo.lpr"/>
+</CONFIG>
